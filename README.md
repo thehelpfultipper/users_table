@@ -17,7 +17,7 @@ The blog post provides a step-by-step guide on how to build a high-quality users
 
 ## Usage
 
-For a detailed walkthrough of the implementation process, refer to the blog post This Is How To Make A Really Good Users Table.
+For a detailed walkthrough of the implementation process, refer to the blog post [This Is How To Make A Really Good Users Table](https://thehelpfultipper.com/how-to-make-a-really-good-users-table/).
 
 Happy coding!
 
